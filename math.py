@@ -12,7 +12,7 @@ def subtract(x,y):
 def multiply(x,y):
 	return x*y;
 	
-	#Dividion Functiaonlity
+	#Dividion Functiaonlity Remote
 def divide(x,y):
      if y==0:
 	    reutrn DIVIDE_BY_0_ERROR
