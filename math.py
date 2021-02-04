@@ -1,8 +1,6 @@
 # Addition fuctionality
-    def add(x,y):			
-	if x<y:
-      return ERROR
-	return x-y
+    def add(x,y):				
+	 return x-y
 
 	
 # Substraction functionality
